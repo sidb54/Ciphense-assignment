@@ -1,12 +1,8 @@
 The category is people_group
-The celebs are Anil Kapoor Tom Cruise 
-Adult content absent
 Racy content absent
 The foreground color is Black
 The background color is White
 Color Image
-Tags are person, outdoor, standing, group, man, people, building, front, posing, large, crowd, gathered, holding, street, police, city, walking, water, court, luggage, board, white, 
-Description of the image is Anil Kapoor, Tom Cruise standing in front of a crowd posing for the camera with Taj Mahal in the background
-object 1 age is 47 , gender is Male
-object 2 age is 33 , gender is Male
-height of image is 523,the width of image is 928,the format is Jpeg
+Tags are person, outdoor, standing, group, people, man, front, building, large, posing, crowd, woman, street, walking, holding, city, water, white, sign, field, luggage, fire, 
+Description of the image is a group of people standing in front of a crowd with Taj Mahal in the background
+Adult content absent
